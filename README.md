@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <table><tr><td valign="top">
 
 ### Articles &#92;[T]/
