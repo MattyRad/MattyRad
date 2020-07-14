@@ -34,6 +34,7 @@ Yo
 - [Parasite](https://film.mradford.com/parasite/)
 - [Midsommar](https://film.mradford.com/midsommar/)
 - [Greener Grass](https://film.mradford.com/greener-grass/)
+- [An Elephant Sitting Still](https://film.mradford.com/an-elephant-sitting-still/)
 - [Plus One](https://film.mradford.com/plus-one/)
 - [The Art of Self Defense](https://film.mradford.com/the-art-of-self-defense/)
 - [The Clovehitch Killer](https://film.mradford.com/the-clovehitch-killer/)
