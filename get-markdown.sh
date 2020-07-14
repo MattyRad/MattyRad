@@ -1,6 +1,8 @@
 #!/bin/bash
 
-echo "MattyRad" | figlet -f script > README.md
+echo "\`\`\`" > README.md
+echo "MattyRad" | figlet -f script >> README.md
+echo "\`\`\`" >> README.md
 echo -e '\n\n' >> README.md
 echo -e '<table><tr><td valign="top">\n' >> README.md
 echo -e "### Articles" >> README.md
