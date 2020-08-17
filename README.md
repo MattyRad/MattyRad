@@ -32,8 +32,8 @@
 </td><td valign="top">
 
 ### Film Reviews
-- [An Elephant Sitting Still](https://film.mradford.com/an-elephant-sitting-still/)
 - [Jojo Rabbit](https://film.mradford.com/jojo-rabbit/)
+- [An Elephant Sitting Still](https://film.mradford.com/an-elephant-sitting-still/)
 - [Palm Springs](https://film.mradford.com/palm-springs/)
 - [Ad Astra](https://film.mradford.com/ad-astra/)
 - [The Killing of a Sacred Deer](https://film.mradford.com/the-killing-of-a-sacred-deer/)
