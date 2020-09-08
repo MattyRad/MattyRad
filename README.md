@@ -33,6 +33,7 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [Peanut Butter Falcon](https://film.mradford.com/peanut-butter-falcon/)
 - [Jojo Rabbit](https://film.mradford.com/jojo-rabbit/)
 - [An Elephant Sitting Still](https://film.mradford.com/an-elephant-sitting-still/)
 - [Palm Springs](https://film.mradford.com/palm-springs/)
