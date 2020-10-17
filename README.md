@@ -33,6 +33,7 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [Downhill](https://film.mradford.com/downhill/)
 - [Peanut Butter Falcon](https://film.mradford.com/peanut-butter-falcon/)
 - [Jojo Rabbit](https://film.mradford.com/jojo-rabbit/)
 - [An Elephant Sitting Still](https://film.mradford.com/an-elephant-sitting-still/)
