@@ -33,6 +33,7 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [Tenet](https://film.mradford.com/tenet/)
 - [Best in Show](https://film.mradford.com/best-in-show/)
 - [Downhill](https://film.mradford.com/downhill/)
 - [Peanut Butter Falcon](https://film.mradford.com/peanut-butter-falcon/)
