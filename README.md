@@ -33,6 +33,7 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [Happiest Season](https://film.mradford.com/happiest-season/)
 - [Tenet](https://film.mradford.com/tenet/)
 - [Best in Show](https://film.mradford.com/best-in-show/)
 - [Downhill](https://film.mradford.com/downhill/)
