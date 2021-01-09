@@ -27,6 +27,7 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [Mom and Dad](https://film.mradford.com/mom-and-dad/)
 - [Happiest Season](https://film.mradford.com/happiest-season/)
 - [Tenet](https://film.mradford.com/tenet/)
 - [Best in Show](https://film.mradford.com/best-in-show/)
