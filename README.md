@@ -33,6 +33,7 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [Coherence](https://film.mradford.com/coherence/)
 - [Mom and Dad](https://film.mradford.com/mom-and-dad/)
 - [Happiest Season](https://film.mradford.com/happiest-season/)
 - [Tenet](https://film.mradford.com/tenet/)
