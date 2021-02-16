@@ -34,32 +34,5 @@
 </td><td valign="top">
 
 ### Film Reviews
-- [Obvious Child](https://film.mradford.com/obvious-child/)
-- [Coherence](https://film.mradford.com/coherence/)
-- [Mom and Dad](https://film.mradford.com/mom-and-dad/)
-- [Happiest Season](https://film.mradford.com/happiest-season/)
-- [Tenet](https://film.mradford.com/tenet/)
-- [Best in Show](https://film.mradford.com/best-in-show/)
-- [Downhill](https://film.mradford.com/downhill/)
-- [Peanut Butter Falcon](https://film.mradford.com/peanut-butter-falcon/)
-- [Jojo Rabbit](https://film.mradford.com/jojo-rabbit/)
-- [An Elephant Sitting Still](https://film.mradford.com/an-elephant-sitting-still/)
-- [Palm Springs](https://film.mradford.com/palm-springs/)
-- [Ad Astra](https://film.mradford.com/ad-astra/)
-- [The Killing of a Sacred Deer](https://film.mradford.com/the-killing-of-a-sacred-deer/)
-- [Uncut Gems](https://film.mradford.com/uncut-gems/)
-- [Star Wars IX: Rise of Skywalker](https://film.mradford.com/star-wars-ix/)
-- [Spider-man: Into the Spider-verse](https://film.mradford.com/spider-man-into-the-spider-verse/)
-- [The Lighthouse](https://film.mradford.com/the-lighthouse/)
-- [Baby Driver](https://film.mradford.com/baby-driver/)
-- [1917](https://film.mradford.com/1917/)
-- [Parasite](https://film.mradford.com/parasite/)
-- [Midsommar](https://film.mradford.com/midsommar/)
-- [Greener Grass](https://film.mradford.com/greener-grass/)
-- [Plus One](https://film.mradford.com/plus-one/)
-- [The Art of Self Defense](https://film.mradford.com/the-art-of-self-defense/)
-- [The Clovehitch Killer](https://film.mradford.com/the-clovehitch-killer/)
-- [Cats: The Jellicle Challenge](https://film.mradford.com/cats/)
-- [Watchlist](https://film.mradford.com/watchlist/)
 </td></tr></table>
 
