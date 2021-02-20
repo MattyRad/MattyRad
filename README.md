@@ -34,5 +34,6 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [The Kid Detective](https://film.mradford.com/the-kid-detective/)
 </td></tr></table>
 
