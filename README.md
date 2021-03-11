@@ -34,6 +34,7 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [The Breaker Uppers](https://film.mradford.com/the-breaker-uppers/)
 - [The Kid Detective](https://film.mradford.com/the-kid-detective/)
 </td></tr></table>
 
