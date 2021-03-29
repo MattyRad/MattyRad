@@ -25,6 +25,7 @@
 </td><td valign="top">
 
 ### Book Reviews
+- [Annihilation (The Southern Reach Series)](https://books.mradford.com/annihilation/)
 - [The Dark Forest](https://books.mradford.com/the-dark-forest/)
 - [The Three Body Problem](https://books.mradford.com/the-three-body-problem/)
 - [Ninefox Gambit (Machineries of War)](https://books.mradford.com/ninefox-gambit/)
