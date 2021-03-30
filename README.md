@@ -25,10 +25,10 @@
 </td><td valign="top">
 
 ### Book Reviews
-- [Annihilation (The Southern Reach Series)](https://books.mradford.com/annihilation/)
+- [Annihilation (The Southern Reach I)](https://books.mradford.com/annihilation/)
 - [The Dark Forest](https://books.mradford.com/the-dark-forest/)
 - [The Three Body Problem](https://books.mradford.com/the-three-body-problem/)
-- [Ninefox Gambit (Machineries of War)](https://books.mradford.com/ninefox-gambit/)
+- [Ninefox Gambit (Machineries of War I)](https://books.mradford.com/ninefox-gambit/)
 - [1984](https://books.mradford.com/1984/)
 - [Blindsight](https://books.mradford.com/blindsight/)
 - [Neuromancer](https://books.mradford.com/neuromancer/)
