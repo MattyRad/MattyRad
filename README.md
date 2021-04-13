@@ -36,6 +36,7 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [Nomadland](https://film.mradford.com/nomadland/)
 - [What If](https://film.mradford.com/what-if/)
 - [The Breaker Uppers](https://film.mradford.com/the-breaker-uppers/)
 - [The Kid Detective](https://film.mradford.com/the-kid-detective/)
