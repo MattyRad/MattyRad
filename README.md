@@ -36,6 +36,7 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [Slaxx](https://film.mradford.com/slaxx/)
 - [Nomadland](https://film.mradford.com/nomadland/)
 - [What If](https://film.mradford.com/what-if/)
 - [The Breaker Uppers](https://film.mradford.com/the-breaker-uppers/)
