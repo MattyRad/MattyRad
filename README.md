@@ -36,6 +36,7 @@
 </td><td valign="top">
 
 ### Film Reviews
+- [Minding the Gap](https://film.mradford.com/minding-the-gap/)
 - [Slaxx](https://film.mradford.com/slaxx/)
 - [Nomadland](https://film.mradford.com/nomadland/)
 - [What If](https://film.mradford.com/what-if/)
