@@ -13,6 +13,7 @@
 <table><tr><td valign="top">
 
 ### Articles
+- [Keep dotfiles in sync across multiple machines](https://soapstone.mradford.com/keep-dotfiles-in-sync-across-multiple-machines/)
 - [Turn Hacker News into an RSS feed](https://soapstone.mradford.com/hn-rss-guide/)
 - [How to use a Dockerfile in GitHub Workflow](https://soapstone.mradford.com/running-docker-in-github-workflow/)
 - [Firefox Linux: Get tabs to open with startpage](https://soapstone.mradford.com/firefox-get-tabs-to-open-with-custom-startpage/)
