@@ -26,22 +26,22 @@
 </td><td valign="top">
 
 ### Book Reviews
-- [Annihilation (The Southern Reach I)](https://books.mradford.com/annihilation/)
-- [The Dark Forest](https://books.mradford.com/the-dark-forest/)
-- [The Three Body Problem](https://books.mradford.com/the-three-body-problem/)
-- [Ninefox Gambit (Machineries of War I)](https://books.mradford.com/ninefox-gambit/)
-- [1984](https://books.mradford.com/1984/)
-- [Blindsight](https://books.mradford.com/blindsight/)
-- [Neuromancer](https://books.mradford.com/neuromancer/)
-- [Hyperion](https://books.mradford.com/hyperion/)
+- [Annihilation (The Southern Reach I)](https://soapstone.mradford.com/books/annihilation/)
+- [The Dark Forest](https://soapstone.mradford.com/books/the-dark-forest/)
+- [The Three Body Problem](https://soapstone.mradford.com/books/the-three-body-problem/)
+- [Ninefox Gambit (Machineries of War I)](https://soapstone.mradford.com/books/ninefox-gambit/)
+- [1984](https://soapstone.mradford.com/books/1984/)
+- [Blindsight](https://soapstone.mradford.com/books/blindsight/)
+- [Neuromancer](https://soapstone.mradford.com/books/neuromancer/)
+- [Hyperion](https://soapstone.mradford.com/books/hyperion/)
 </td><td valign="top">
 
 ### Film Reviews
-- [Minding the Gap](https://film.mradford.com/minding-the-gap/)
-- [Slaxx](https://film.mradford.com/slaxx/)
-- [Nomadland](https://film.mradford.com/nomadland/)
-- [What If](https://film.mradford.com/what-if/)
-- [The Breaker Uppers](https://film.mradford.com/the-breaker-uppers/)
-- [The Kid Detective](https://film.mradford.com/the-kid-detective/)
+- [Minding the Gap](https://soapstone.mradford.com/film/minding-the-gap/)
+- [Slaxx](https://soapstone.mradford.com/film/slaxx/)
+- [Nomadland](https://soapstone.mradford.com/film/nomadland/)
+- [What If](https://soapstone.mradford.com/film/what-if/)
+- [The Breaker Uppers](https://soapstone.mradford.com/film/the-breaker-uppers/)
+- [The Kid Detective](https://soapstone.mradford.com/film/the-kid-detective/)
 </td></tr></table>
 
